@@ -304,7 +304,7 @@ return array(
     "no_existing_translations"  => "Keine existierenden Übersetzungen.",
     "add_translation"           => "Übersetzung hinzufügen.",
     "todo_list"                 => "To Do List",
-    "version_check"             => "Versiensprüfung",
+    "version_check"             => "Versionsprüfung",
     "system_overview"           => "System Overview",
     "getting_started"           => "Getting Started",
     "operator_notes"            => "Operator Notes",
